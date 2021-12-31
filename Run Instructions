@@ -1,0 +1,3 @@
+Run the Assign 4 file provided using one of two text files given. 
+An output file will be created in the same folder in which you have placed the Assign 4 file which will place either a less than sign, more than sign, a V or the power of symbol (^)
+These symbols will be placed in such a way that will give a path from the start to the end of the maze
